@@ -1,3 +1,3 @@
 # a-SMA_analysis
 
-Example script for the analysis of $\alpha$-SMA intensity in confoncal immunofluorescent images.
+Example script for the analysis of $\alpha$-SMA intensity in confocal immunofluorescent images.
